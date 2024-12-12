@@ -1,0 +1,8 @@
+Andrew cocacola Market 40 96 10.5
+Hend bracelets others 1 0 15
+Maram Pepsi Market 30 287 11
+Mazhar sweet_corn food 38 200 20
+admin hotdog food 556556 260 15
+admin strawberry_milk drinks 55 116 10
+mazhar milk drinks 2222 202 25
+zeyad iphone tech 7788 5 7500
